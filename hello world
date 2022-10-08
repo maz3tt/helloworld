@@ -1,0 +1,16 @@
+<html>
+<head>
+  <title>Hello world</title>
+
+
+
+ </head>
+<body> 
+    
+   <script>
+       console.writeline('hello world')
+    </script>
+  
+  
+</body>
+</html>
