@@ -2,14 +2,14 @@
 <head>
   <title>Hello world</title>
 
-
+    <script>
+        console.writeline('Hello, World!');
+    </script>
 
  </head>
 <body> 
     
-   <script>
-       console.writeline('hello world')
-    </script>
+ <div></div>
   
   
 </body>
